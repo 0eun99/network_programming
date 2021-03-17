@@ -1,14 +1,11 @@
-i = 1
-num=[]
-sum = 0
-while True:
-    if i <=1000:
-        num.append(str(i))
-        i+=1
-    else:
-        break
+list1=[]
+list2=[]
+for i in range(50):
+    list1.append(i)
 
-for i in num:
-    sum += int(i)
+print(list1)
 
-print(sum)
+
+for i in list1:
+    list2.append(i**2)
+print(list2)
