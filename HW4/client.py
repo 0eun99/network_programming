@@ -5,4 +5,10 @@ addr = ('localhost', 9000)
 sock.connect(addr)
 msg = sock.recv(1024)
 print(msg.decode())
+#본인의 이름 문자열로 전송
+sock.send(b'Choi Youngeun')
+#본인의 학번을 수신 후 출력
+msg = sock.recv(1024)
+print(msg.decode())
+
 sock.close()
