@@ -1,0 +1,12 @@
+Wed Apr 14 20:23:02 2021 : Device 1 : Temp= 19 Humid= 49 lilum= 110
+Wed Apr 14 20:23:02 2021 : Device 1 : Temp= 4 Humid= 87 lilum= 117
+Wed Apr 14 20:23:03 2021 : Device 1 : Temp= 2 Humid= 69 lilum= 100
+Wed Apr 14 20:23:03 2021 : Device 1 : Temp= 16 Humid= 75 lilum= 136
+Wed Apr 14 20:23:03 2021 : Device 1 : Temp= 15 Humid= 11 lilum= 117
+Wed Apr 14 20:23:04 2021 : Device 1 : Temp= 25 Humid= 77 lilum= 119
+Wed Apr 14 20:23:04 2021 : Device 1 : Temp= 7 Humid= 88 lilum= 125
+Wed Apr 14 21:05:24 2021 : Device 2 : Heartbeat=131 Steps=3876 Cal=2052
+Wed Apr 14 21:05:24 2021 : Device 2 : Heartbeat=111 Steps=4876 Cal=2652
+Wed Apr 14 21:05:25 2021 : Device 2 : Heartbeat=111 Steps=3769 Cal=2133
+Wed Apr 14 21:06:03 2021 : Device 2 : Heartbeat=111 Steps=3769 Cal=2133
+Wed Apr 14 21:06:03 2021 : Device 2 : Heartbeat=90 Steps=3001 Cal=2404
